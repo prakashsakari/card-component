@@ -19,3 +19,7 @@ Card component has multiple cards with content and action on a single subject, y
 
 
 ![c6](https://user-images.githubusercontent.com/80476561/150655213-2562d61d-3af0-41ba-b209-e04eabda8fdb.png)
+
+
+
+![c1-c3](https://user-images.githubusercontent.com/80476561/150655283-2296847d-b31c-463d-beee-8f25aa3c2385.png)
