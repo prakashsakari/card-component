@@ -1,6 +1,6 @@
 # CARDS
 
-Card component has multiple cards with content and action on a single subject, you can use it as a card component in any of your project.
+Card component has multiple cards with content and action about a single subject, you can use it as a card component in any of your project.
 
 
 ![c1-c3](https://user-images.githubusercontent.com/80476561/150655283-2296847d-b31c-463d-beee-8f25aa3c2385.png)
