@@ -3,11 +3,9 @@
     position: relative;
 }
 
-.card-hero-section-2:hover,
-.card-hero-image:hover{
+.card-hero-section-2:hover{
     cursor: pointer;
-    background-color: #eff6ff;
-    background-blend-mode: multiply;
+    filter: grayscale(0.5);
 }
 
 

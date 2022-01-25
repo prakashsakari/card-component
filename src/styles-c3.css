@@ -1,10 +1,10 @@
 
-.card-hero-section:hover,
-.card-hero-image-3:hover{
+.card-hero-section:hover{
     cursor: pointer;
-    background-color: #eff6ff;
-    background-blend-mode: multiply;
+    filter: grayscale(0.5);
 }
+
+
 
 
 .card-hero-image-3{

@@ -2,11 +2,9 @@
     display: flex;
 }
 
-.card-hero-section-6:hover,
-.card-hero-image-6:hover{
+.card-hero-section-6:hover{
     cursor: pointer;
-    background-color: #eff6ff;
-    background-blend-mode: multiply;
+    filter: grayscale(0.5);
 }
 
 .card-hero-image-6{
